@@ -18,4 +18,3 @@ I used a dataset provided by KPMG for this project, which contained customer dem
   * Tableau
 
 
-Thank you for following along with my KPMG AU Data Analytics Virtual Internship, and I hope my experience with Python has demonstrated its usefulness as a tool for analyzing and visualizing data.
